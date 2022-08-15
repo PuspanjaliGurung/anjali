@@ -1,0 +1,21 @@
+body{
+    background-color:rebeccapurple;
+}
+.text{
+    color:green;
+    font-size: 30px;
+    font-family: 'Aboreto', cursive ;
+    flex-direction:ltr;
+}
+.container{
+    display:flex;
+    background-color: rgba(122, 26, 26, 0.521);
+    padding: 30px;
+   
+}
+.container > div{
+    background-color: rgb(18, 18, 128);
+    margin: 20px;
+    padding: 30px;
+    font-size: 25px;
+}
